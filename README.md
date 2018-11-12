@@ -1,1 +1,1 @@
-# VCard (https://jtdevries.github.io/VCard/)[Link]
+# VCard [Link](https://jtdevries.github.io/VCard/)
